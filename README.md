@@ -1,6 +1,6 @@
 # pagina-responsiva
  Página responsiva com design DARKK
-![image](https://user-images.githubusercontent.com/101151964/173664240-7769ab11-b2df-44ed-ad58-6dc31d2ccd4f.png)
+![WhatsApp Image 2022-06-14 at 15 39 40](https://user-images.githubusercontent.com/101151964/173664572-13043824-5088-4f6e-a318-a7ccc3869d84.jpeg)
 
 ## 🤝 Collaborators
 
